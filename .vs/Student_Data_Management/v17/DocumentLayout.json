@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh\\source\\repos\\Student_Data_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B67FD1-E606-460A-B5A4-44A35C255C6A}|Student_Data_Management\\Student_Data_Management.csproj|C:\\Users\\sh\\source\\repos\\Student_Data_Management\\student_data_management\\student_data_management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8B67FD1-E606-460A-B5A4-44A35C255C6A}|Student_Data_Management\\Student_Data_Management.csproj|solutionrelative:student_data_management\\student_data_management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B67FD1-E606-460A-B5A4-44A35C255C6A}|Student_Data_Management\\Student_Data_Management.csproj|c:\\users\\sh\\source\\repos\\student_data_management\\student_data_management\\student_data_management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B67FD1-E606-460A-B5A4-44A35C255C6A}|Student_Data_Management\\Student_Data_Management.csproj|solutionrelative:student_data_management\\student_data_management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_Data_Management.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Student_Data_Management\\Student_Data_Management\\Student_Data_Management.aspx.cs",
+              "RelativeDocumentMoniker": "Student_Data_Management\\Student_Data_Management.aspx.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Student_Data_Management\\Student_Data_Management\\Student_Data_Management.aspx.cs",
+              "RelativeToolTip": "Student_Data_Management\\Student_Data_Management.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:48:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student_Data_Management.aspx",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Student_Data_Management\\Student_Data_Management\\Student_Data_Management.aspx",
+              "RelativeDocumentMoniker": "Student_Data_Management\\Student_Data_Management.aspx",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Student_Data_Management\\Student_Data_Management\\Student_Data_Management.aspx",
+              "RelativeToolTip": "Student_Data_Management\\Student_Data_Management.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-23T06:37:16.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
